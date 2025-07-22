@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XgNi_xmCBk2J7xxgHPCavg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1/inventory.html" CVScreenId="aad843a2-236a-4953-bf91-aa9b8dc02e7e" CvElementArea="1434, 731, 185, 56" CvTextArea="1459, 749, 132, 18" CvTextArgument="ADD TO CART" CvType="Button" DesignTimeRectangle="1435, 732, 183, 54" ElementType="Button" FullSelectorArgument="&lt;webctrl idx='4' parentid='inventory_container' tag='BUTTON' /&gt;" Guid="9a1547a9-09d6-4b79-9f13-9ba72934b4e0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e7f0ec795e2a5b7f0d5c439773ea5a5a.png" xmlns="">0y_VDbEugW0Wz1c1-Qc0dVw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
