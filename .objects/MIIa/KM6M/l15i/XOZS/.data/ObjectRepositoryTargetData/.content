@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6vjiQSHAUEOx8djCW_J3nA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="saucedemo.com/v1/inventory.html" CVScreenId="9fd5eb16-2c3d-4d52-af75-37da572455a4" CvTextArea="145, 371, 155, 35" CvTextArgument="Products" CvType="Text" DesignTimeRectangle="147, 368, 151, 44" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='inventory_filter_container' tag='DIV' /&gt;" Guid="043db4bf-0f3c-4465-b017-b160d91045d3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3a0b780c2ee2a82778f33beb231aea1a.png" xmlns="">0KvN08cHwTEWAMLWtPF8wcA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,11 +1,14 @@
 {
-  "name": "SaucedemoLogin",
-  "projectId": "8379ba21-8589-40f3-b0af-0c1a7671b7de",
+  "name": "Saucedemo",
+  "projectId": "fc10d3e1-d06e-4404-a7f0-4cb73c8c749d",
   "description": "Sauce Demo website",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[3.1.1]",
+    "UiPath.Mail.Activities": "[2.2.10]",
     "UiPath.System.Activities": "[25.4.4]",
-    "UiPath.UIAutomation.Activities": "[25.10.10]"
+    "UiPath.UIAutomation.Activities": "[25.10.10]",
+    "UiPath.UIAutomation.Activities.Design.RecoveryPanel": "[24.10.13]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -52,7 +55,7 @@
       "output": []
     }
   ],
-  "isTemplate": true,
+  "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},
   "targetFramework": "Windows"
